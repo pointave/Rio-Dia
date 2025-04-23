@@ -11,3 +11,5 @@ Installation
 5. Download model and its config from huggingface and add to model folder
 
 To run the program python rio.py. 
+
+![rio-dia](https://github.com/user-attachments/assets/e703e0a7-2b89-494f-b751-cff9148c6fc1)
